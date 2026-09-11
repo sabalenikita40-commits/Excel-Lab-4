@@ -1,0 +1,17 @@
+# 📊 Cleaning and Structuring Retail Data Using Tables
+
+## 📌 Description
+
+Cleaned and structured the **DMart Sales Dataset** using Excel Tables. Organized retail transaction data, corrected inconsistencies, and applied proper formatting for easy sorting, filtering, and analysis.
+
+## 🛠️ Key Skills Used
+
+* Data Cleaning
+* Excel Tables
+* Data Formatting
+* Sorting & Filtering
+* Data Organization
+
+## 💻 Tool Used
+
+**Microsoft Excel**
